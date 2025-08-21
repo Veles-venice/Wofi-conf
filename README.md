@@ -14,7 +14,7 @@ The goal was to create a **minimal yet aesthetic menu** with soft transparency a
 - 🛠️ Designed to integrate seamlessly with **Hyprland**  
 
 ## 📸 Preview
-![screenshot](./screenshot-20250821-202141.png)  
+![screenshot](./screenshots/screenshot-20250821-202141.png)  
 
 ## 🔧 Installation
 though I don't know why you want it.. it's not so good still:
