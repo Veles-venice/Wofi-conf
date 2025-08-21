@@ -1,0 +1,18 @@
+term=kitty
+location=center
+width=50%
+height=50%
+show_all=true
+gtk_dark=false
+insensitive=false
+allow_markup=true
+allow_images=true
+line_warp=6
+no_actions=true
+hide_scroll=true
+
+#Same controls as vim cause why not?
+key_up=k
+key_down=j
+key_right=l
+key_left=h
